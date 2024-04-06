@@ -1,1 +1,0 @@
-# myself__temperature
